@@ -1,0 +1,3 @@
+nslookup -type=ns digionline.hu
+nslookup -type=mx linkedin.com 8.8.8.8
+nslookup -query=any hszzrt.hu
